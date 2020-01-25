@@ -1,2 +1,4 @@
 # clog
-A cli tool for standardizing change logs
+A CLI for standardizing change logs based on [semver][1].
+
+[1]: https://semver.org/
